@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表的倒数第k个结点", "链表的倒数第k个结点\链表的倒数第k个结点.vcxproj", "{F459AEC2-137D-4F13-A8B2-988469387529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F459AEC2-137D-4F13-A8B2-988469387529}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F459AEC2-137D-4F13-A8B2-988469387529}.Debug|Win32.Build.0 = Debug|Win32
+		{F459AEC2-137D-4F13-A8B2-988469387529}.Release|Win32.ActiveCfg = Release|Win32
+		{F459AEC2-137D-4F13-A8B2-988469387529}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

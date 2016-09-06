@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1411286107 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\double_link\dlink_test.c
+	<stdio.h>
+	"double_link.h"
+
+1411283003 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\double_link\double_link.h
+
+1411283303 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\double_link\double_link.c
+	<stdio.h>
+	<malloc.h>
+

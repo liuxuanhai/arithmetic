@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1414151397 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\prim_minheap\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"minheap.h"
+
+1414152177 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\prim_minheap\graph.h
+	<iostream>
+	<limits.h>
+
+1414151799 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\prim_minheap\minheap.h
+

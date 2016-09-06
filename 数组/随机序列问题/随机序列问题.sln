@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "随机序列问题", "随机序列问题\随机序列问题.vcxproj", "{5A0CA7A5-F04E-46D0-BB0D-9E0D103B03E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A0CA7A5-F04E-46D0-BB0D-9E0D103B03E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A0CA7A5-F04E-46D0-BB0D-9E0D103B03E6}.Debug|Win32.Build.0 = Debug|Win32
+		{5A0CA7A5-F04E-46D0-BB0D-9E0D103B03E6}.Release|Win32.ActiveCfg = Release|Win32
+		{5A0CA7A5-F04E-46D0-BB0D-9E0D103B03E6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

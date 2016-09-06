@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "判断序列是否为二叉搜索树的后序遍历", "判断序列是否为二叉搜索树的后序遍历\判断序列是否为二叉搜索树的后序遍历.vcxproj", "{E5A83A0D-4332-4822-B002-50DD0168C40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A83A0D-4332-4822-B002-50DD0168C40E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5A83A0D-4332-4822-B002-50DD0168C40E}.Debug|Win32.Build.0 = Debug|Win32
+		{E5A83A0D-4332-4822-B002-50DD0168C40E}.Release|Win32.ActiveCfg = Release|Win32
+		{E5A83A0D-4332-4822-B002-50DD0168C40E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

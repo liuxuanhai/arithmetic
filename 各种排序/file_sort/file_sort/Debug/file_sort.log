@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/9/6 星期二 下午 1:42:11。
+     1>项目“D:\C++Project\suangfa\arithmetic-subject\file_sort\file_sort\file_sort.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\c++project\suangfa\arithmetic-subject\file_sort\file_sort\源.cpp(30): warning C4129: “d”: 不可识别的字符转义序列
+     1>d:\c++project\suangfa\arithmetic-subject\file_sort\file_sort\源.cpp(44): warning C4129: “d”: 不可识别的字符转义序列
+     1>d:\c++project\suangfa\arithmetic-subject\file_sort\file_sort\源.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++Project\suangfa\arithmetic-subject\file_sort\Debug\file_sort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C++Project\suangfa\arithmetic-subject\file_sort\Debug\file_sort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++Project\suangfa\arithmetic-subject\file_sort\Debug\file_sort.lib" /MACHINE:X86 "Debug\源.obj"
+         LINK : 没有找到 D:\C++Project\suangfa\arithmetic-subject\file_sort\Debug\file_sort.exe 或上一个增量链接没有生成它；正在执行完全链接
+         file_sort.vcxproj -> D:\C++Project\suangfa\arithmetic-subject\file_sort\Debug\file_sort.exe
+     1>已完成生成项目“D:\C++Project\suangfa\arithmetic-subject\file_sort\file_sort\file_sort.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.12

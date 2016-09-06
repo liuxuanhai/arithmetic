@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413773717 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\strongly_connected_component\main.cpp
+	<iostream>
+	"graph.h"
+
+1413777398 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\strongly_connected_component\graph.h
+	<iostream>
+

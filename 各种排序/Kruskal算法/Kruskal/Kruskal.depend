@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1413856542 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\kruskal\main.cpp
+	<iostream>
+	<algorithm>
+	"UnionFindSet.h"
+
+1413856586 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\kruskal\unionfindset.h
+	<iostream>
+

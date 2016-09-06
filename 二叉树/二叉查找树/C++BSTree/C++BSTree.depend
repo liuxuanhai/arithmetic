@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1412259036 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\c++bstree\main.cpp
+	<iostream>
+	"BSTree.h"
+
+1412259561 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\c++bstree\bstree.h
+	<iomanip>
+	<iostream>
+

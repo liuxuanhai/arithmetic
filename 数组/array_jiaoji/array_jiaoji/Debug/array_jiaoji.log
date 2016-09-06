@@ -1,0 +1,22 @@
+﻿生成启动时间为 2015/8/14 19:51:22。
+     1>项目“F:\Github\arithmetic-subject\array_jiaoji\array_jiaoji\array_jiaoji.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>e:\vs2012\vc\include\xutility(2176): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 e:\vs2012\vc\include\xutility(2157) : 参见“std::_Copy_impl”的声明
+                 f:\github\arithmetic-subject\array_jiaoji\array_jiaoji\源.cpp(11): 参见对正在编译的函数 模板 实例化“_OutIt std::copy<std::_Tree_const_iterator<_Mytree>,long[]>(_InIt,_InIt,_OutIt)”的引用
+                 with
+                 [
+                     _OutIt=long [],
+                     _Mytree=std::_Tree_val<std::_Tree_simple_types<long>>,
+                     _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<long>>>
+                 ]
+       Link:
+         E:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Github\arithmetic-subject\array_jiaoji\Debug\array_jiaoji.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Github\arithmetic-subject\array_jiaoji\Debug\array_jiaoji.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Github\arithmetic-subject\array_jiaoji\Debug\array_jiaoji.lib" /MACHINE:X86 "Debug\源.obj"
+         array_jiaoji.vcxproj -> F:\Github\arithmetic-subject\array_jiaoji\Debug\array_jiaoji.exe
+     1>已完成生成项目“F:\Github\arithmetic-subject\array_jiaoji\array_jiaoji\array_jiaoji.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.14
